@@ -1,0 +1,42 @@
+[ 
+    {
+        "nombre": "Dale",
+        "apellido": "Bucher",
+        "email": "dale@mailinator.com",
+        "numeroTelefono": 123456789,
+        "mesNacimiento": "April",
+        "añoNacimiento": "2000"
+    },
+    {
+        "nombre": "Grace",
+        "apellido": "Stevens",
+        "email": "grace@mailinator.com",
+        "numeroTelefono": 7843161561,
+        "mesNacimiento": "June",
+        "añoNacimiento": "2001"
+    },
+    {
+        "nombre": "David",
+        "apellido": "Herman",
+        "email": "david@mailinator.com",
+        "numeroTelefono": 5465116546,
+        "mesNacimiento": "December",
+        "añoNacimiento": "2000"
+    },
+    {
+        "nombre": "Alva",
+        "apellido": "Charles",
+        "email": "alva@mailinator.com",
+        "numeroTelefono": 3145648775,
+        "mesNacimiento": "November",
+        "añoNacimiento": "1996"
+    },
+    {
+        "nombre": "Shelia",
+        "apellido": "Tapia",
+        "email": "shelia@mailinator.com",
+        "numeroTelefono": 546781396,
+        "mesNacimiento": "March",
+        "añoNacimiento": "1999"
+    }
+]
