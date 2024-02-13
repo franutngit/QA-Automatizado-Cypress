@@ -1,4 +1,4 @@
-describe('Curso Cypress - Capitulo 14', () => {
+describe('Curso Cypress - Capitulo 13', () => {
 
     it.only('Url', () =>{
         cy.viewport(1920, 1080);
